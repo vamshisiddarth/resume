@@ -37,21 +37,19 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  - title: Academics
+  - title: Background
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
         title: Academics
-        # link: github.com/sproogen
-        # link_text: Project Website
         description: | # this will include new lines to allow paragraphs
           Bachelor of Technology ( B.Tech ) in Computer Science from JNTU in 2010
       - layout: top-right
         title: Certifications
         description: |
-          - ITIL Foundation
-          - AWS Certified Solutions Architect - Associate
-          - Certified Kubernetes Administrator
+          ITIL Foundation
+          AWS Certified Solutions Architect - Associate
+          Certified Kubernetes Administrator
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
