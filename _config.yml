@@ -34,17 +34,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   Architected and implemented multiple solutions to maintain large scale applications with High Availability and DR strategy with self healing capabilities in place by setting up monitoring(observability) with all key aspects w.r.t applications and infrastructure.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
 content:
   - title: Background
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Academics
         description: | # this will include new lines to allow paragraphs
           Bachelor of Technology ( B.Tech ) in Computer Science from JNTU in 2010
-      - layout: right
+      - layout: left
         title: Certifications
         description: |
           - ITIL Foundation
@@ -83,7 +81,7 @@ content:
           - Go ( Beginner )
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
