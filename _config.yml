@@ -32,6 +32,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Experienced Engineer with 10 years of demonstrated history in the IT industry on AWS and Azure alongside working experience on DevOps Culture leveraging multiple CI/CD tools.
 
+
   Architected and implemented multiple solutions to maintain large scale applications with High Availability and DR strategy with self healing capabilities in place by setting up monitoring(observability) with all key aspects w.r.t applications and infrastructure.
 
 content:
@@ -66,6 +67,11 @@ content:
           - Kubernetes
           - OpenShift
       - layout: left
+        title: IaC and Configurtion Management
+        description: |
+          - Terraform
+          - Ansible
+      - layout: left
         title: CI / CD
         description: |
           - GitHub Actions
@@ -79,6 +85,43 @@ content:
           - Shell
           - Batch
           - Go ( Beginner )
+      - layout: left
+        title: Operating Systems
+        description: |
+          - Linux ( RHEL / CentOS / Ubuntu )
+          - Windows
+      - layout: left
+        title: Application Servers
+        description: |
+          - IBM WebSphere Application Server
+          - Oracle WebLogic
+          - Apache Tomcat
+      - layout: left
+        title: Web Servers
+        description: |
+          - Apache
+          - Nginx
+          - Caddy
+      - layout: left
+        title: Database
+        description: |
+          - Oracle
+          - MySQL
+          - MongoDB
+          - Postgres
+      - layout: left
+        title: Caching and Message Queue
+        description: |
+          - Redis
+          - Kafka
+      - layout: left
+        title: Additional Tools
+        description: |
+          - Helm
+          - Prometheus Stack ( Prometheus / Grafana / AlertManager / BlackBox / Node Exporter )
+          - Elastic Stack ( ElasticSearch / LogStash / Kibana / FielBeat / FluentD )
+          - Datadog
+          - SumoLogic
 
 # Footer
 footer_show_references: false
