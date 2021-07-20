@@ -44,12 +44,12 @@ content:
         title: Academics
         description: | # this will include new lines to allow paragraphs
           Bachelor of Technology ( B.Tech ) in Computer Science from JNTU in 2010
-      - layout: top-right
+      - layout: right
         title: Certifications
         description: |
-          ITIL Foundation
-          AWS Certified Solutions Architect - Associate
-          Certified Kubernetes Administrator
+          - ITIL Foundation
+          - AWS Certified Solutions Architect - Associate
+          - Certified Kubernetes Administrator
 
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
